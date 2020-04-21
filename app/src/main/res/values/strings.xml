@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="titulo">Programando Android</string>
+    <string name="nombre">Ingresa tu Nombre</string>
+    <string name="edad">Ingresa tu edad</string>
+    <string name="telefono">Ingresa tu telefono</string>
+    <string name="correo">Ingresa tu correo</string>
+    <string name="btnvalor">Procesa la Informacion</string>
+</resources>
